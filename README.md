@@ -1,1 +1,2 @@
-# lab5
+g++ -o HugeInt.out HugeInt.cpp
+
