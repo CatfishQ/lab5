@@ -1,0 +1,10 @@
+Script started on 2017年05月23日 (週二) 10時03分08秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab5 $[00m g++ -o HugeInt.out  [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C  HugeInt.cpp
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab5 $[00m ./HugeInt.out 
+123
+123+28825252 = 28825375
+314159265358979323723
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab5 $[00m exit
+
+Script done on 2017年05月23日 (週二) 10時04分18秒
